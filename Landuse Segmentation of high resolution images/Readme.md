@@ -6,5 +6,4 @@
 
 ##### https://dl.acm.org/doi/pdf/10.1145/3489517.3530424
 ##### https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8293734/
-##### https://sainivedh.medium.com/optimization-of-cnn-architecture-using-genetic-algorithm-for-image-
-##### classification-5c48f25dac9c
+##### https://sainivedh.medium.com/optimization-of-cnn-architecture-using-genetic-algorithm-for-image-classification-5c48f25dac9c
