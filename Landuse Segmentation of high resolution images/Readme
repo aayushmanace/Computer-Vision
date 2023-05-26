@@ -1,4 +1,4 @@
-## `Title`: Develop an efficient CNN architecture for landuse segmentation of high-resolution imagery using Genetic algorithm and compare with other optimizers (Adam, GD, SGD)
+## Title: Develop an efficient CNN architecture for landuse segmentation of high-resolution imagery using Genetic algorithm and compare with other optimizers (Adam, GD, SGD)
 
 In this problem the task of semantic segmentation will be carried out by updating the weights
 by using Genetic algorithm. After the best result is generated it has to copmpared with the
